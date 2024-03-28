@@ -3,7 +3,9 @@ Laboratory 2
 first Spring MVC application
 
 
-https://github.com/Turlinahi/Spring-MVC-application/assets/133703884/4e142f4e-d3b7-41f0-83b6-a6441709d982
+
+https://github.com/Turlinahi/Spring-MVC-application/assets/133703884/6a424be7-f80f-4b17-8b8c-7a3df1aae50f
+
 
 
 1) Make it run and test it.
